@@ -7,4 +7,5 @@ end
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem
+gem 'rails', '~> 5.1.6'
+# U
