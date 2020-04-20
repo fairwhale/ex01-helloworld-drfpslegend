@@ -20,4 +20,5 @@ gem 'redis', '~> 4.0'
 gem 'bcrypt', '~> 3.1.7'
 gem 'jwt'
 
-# Use C
+# Use Capistrano for deployment
+# gem '
