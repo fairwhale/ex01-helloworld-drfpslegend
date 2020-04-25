@@ -24,4 +24,5 @@ gem 'jwt'
 # gem 'capistrano-rails', group: :development
 
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin AJAX possible
-gem 'rack-cors', require: 'rack/co
+gem 'rack-cors', require: 'rack/cors'
+gem 'active_model_serial
