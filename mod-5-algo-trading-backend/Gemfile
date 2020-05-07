@@ -29,4 +29,4 @@ gem 'active_model_serializers'
 gem 'websocket-client-simple'
 
 group :development, :test do
-  # Call '
+  # Call 'byebug' anywhere in the code to stop ex
