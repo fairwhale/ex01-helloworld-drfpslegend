@@ -30,4 +30,4 @@ gem 'websocket-client-simple'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
-  gem 'byeb
+  gem 'byebug', platforms: [:mri, :min
