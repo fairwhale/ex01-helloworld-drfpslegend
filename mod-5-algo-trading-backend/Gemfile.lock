@@ -1,2 +1,4 @@
 GEM
-  remote: https://rubyg
+  remote: https://rubygems.org/
+  specs:
+    act
