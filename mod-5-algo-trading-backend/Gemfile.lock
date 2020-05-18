@@ -2,4 +2,5 @@ GEM
   remote: https://rubygems.org/
   specs:
     actioncable (5.1.6)
-      actionpack
+      actionpack (= 5.1.6)
+      nio4r (~>
