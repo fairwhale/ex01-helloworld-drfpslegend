@@ -5,4 +5,5 @@ GEM
       actionpack (= 5.1.6)
       nio4r (~> 2.0)
       websocket-driver (~> 0.6.1)
-  
+    actionmailer (5.1.6)
+      a
