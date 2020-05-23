@@ -13,4 +13,4 @@ GEM
       rails-dom-testing (~> 2.0)
     actionpack (5.1.6)
       actionview (= 5.1.6)
-     
+      activesupport (= 5.1.6)
