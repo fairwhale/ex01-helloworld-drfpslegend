@@ -17,4 +17,5 @@ GEM
       rack (~> 2.0)
       rack-test (>= 0.6.3)
       rails-dom-testing (~> 2.0)
-      rails-html-san
+      rails-html-sanitizer (~> 1.0, >= 1.0.2)
+    act
