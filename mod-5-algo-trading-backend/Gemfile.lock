@@ -26,4 +26,5 @@ GEM
       rails-html-sanitizer (~> 1.0, >= 1.0.3)
     active_model_serializers (0.9.3)
       activemodel (>= 3.2)
-    activejob (
+    activejob (5.1.6)
+      activesup
