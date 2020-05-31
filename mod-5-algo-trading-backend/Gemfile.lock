@@ -28,4 +28,5 @@ GEM
       activemodel (>= 3.2)
     activejob (5.1.6)
       activesupport (= 5.1.6)
-      glo
+      globalid (>= 0.3.6)
+    activemod
