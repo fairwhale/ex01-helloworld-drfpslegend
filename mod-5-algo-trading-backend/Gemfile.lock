@@ -27,4 +27,5 @@ GEM
     active_model_serializers (0.9.3)
       activemodel (>= 3.2)
     activejob (5.1.6)
-      activesup
+      activesupport (= 5.1.6)
+      glo
