@@ -30,4 +30,5 @@ GEM
       activesupport (= 5.1.6)
       globalid (>= 0.3.6)
     activemodel (5.1.6)
-      activesuppor
+      activesupport (= 5.1.6)
+    activerec
