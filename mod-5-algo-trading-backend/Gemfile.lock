@@ -35,4 +35,5 @@ GEM
       activemodel (= 5.1.6)
       activesupport (= 5.1.6)
       arel (~> 8.0)
-    activesupp
+    activesupport (5.1.6)
+      co
