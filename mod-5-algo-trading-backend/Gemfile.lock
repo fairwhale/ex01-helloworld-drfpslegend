@@ -36,4 +36,4 @@ GEM
       activesupport (= 5.1.6)
       arel (~> 8.0)
     activesupport (5.1.6)
-      co
+      concurrent-ruby (~> 1.0, >= 1.0.2)
