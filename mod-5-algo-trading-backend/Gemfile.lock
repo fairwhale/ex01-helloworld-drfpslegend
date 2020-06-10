@@ -37,3 +37,5 @@ GEM
       arel (~> 8.0)
     activesupport (5.1.6)
       concurrent-ruby (~> 1.0, >= 1.0.2)
+      i18n (>= 0.7, < 2)
+      mini
