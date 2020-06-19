@@ -49,4 +49,5 @@ GEM
     erubi (1.7.1)
     event_emitter (0.2.6)
     ffi (1.9.25)
-    global
+    globalid (0.4.1)
+      activesuppor
