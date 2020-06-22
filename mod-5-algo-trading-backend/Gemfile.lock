@@ -50,4 +50,6 @@ GEM
     event_emitter (0.2.6)
     ffi (1.9.25)
     globalid (0.4.1)
-      activesuppor
+      activesupport (>= 4.2.0)
+    i18n (1.0.1)
+    
