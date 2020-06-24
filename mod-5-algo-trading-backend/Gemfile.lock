@@ -59,4 +59,5 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
     loofah (2.2.2)
-      crass (~> 
+      crass (~> 1.0.2)
+      nokogiri (>= 1.5.9)
