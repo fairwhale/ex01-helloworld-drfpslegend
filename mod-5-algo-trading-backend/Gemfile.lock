@@ -66,4 +66,5 @@ GEM
     method_source (0.9.0)
     mini_mime (1.0.0)
     mini_portile2 (2.3.0)
-    min
+    minitest (5.11.3)
+    nio4r (2.3
