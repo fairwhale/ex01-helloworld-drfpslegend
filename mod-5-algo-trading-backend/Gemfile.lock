@@ -72,4 +72,5 @@ GEM
       mini_portile2 (~> 2.3.0)
     pg (1.0.0)
     puma (3.11.4)
-    
+    rack (2.0.5)
+    rack-cors 
