@@ -77,4 +77,5 @@ GEM
     rack-test (1.0.0)
       rack (>= 1.0, < 3)
     rails (5.1.6)
-      actioncable (= 
+      actioncable (= 5.1.6)
+      actionmailer (= 5.1.6)
