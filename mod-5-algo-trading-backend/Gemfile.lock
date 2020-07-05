@@ -79,3 +79,5 @@ GEM
     rails (5.1.6)
       actioncable (= 5.1.6)
       actionmailer (= 5.1.6)
+      actionpack (= 5.1.6)
+     
