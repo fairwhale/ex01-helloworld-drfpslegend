@@ -81,4 +81,6 @@ GEM
       actionmailer (= 5.1.6)
       actionpack (= 5.1.6)
       actionview (= 5.1.6)
-      activejob (= 5
+      activejob (= 5.1.6)
+      activemodel (= 5.1.6)
+   
