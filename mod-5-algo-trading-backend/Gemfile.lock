@@ -80,4 +80,5 @@ GEM
       actioncable (= 5.1.6)
       actionmailer (= 5.1.6)
       actionpack (= 5.1.6)
-     
+      actionview (= 5.1.6)
+      activejob (= 5
