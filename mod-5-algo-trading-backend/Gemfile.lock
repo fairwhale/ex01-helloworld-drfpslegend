@@ -84,4 +84,5 @@ GEM
       activejob (= 5.1.6)
       activemodel (= 5.1.6)
       activerecord (= 5.1.6)
-      acti
+      activesupport (= 5.1.6)
+      bundler 
