@@ -86,4 +86,6 @@ GEM
       activerecord (= 5.1.6)
       activesupport (= 5.1.6)
       bundler (>= 1.3.0)
-      railties (= 5.1.6
+      railties (= 5.1.6)
+      sprockets-rails (>= 2.0.0)
+    
