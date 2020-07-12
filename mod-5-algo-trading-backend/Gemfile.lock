@@ -90,4 +90,5 @@ GEM
       sprockets-rails (>= 2.0.0)
     rails-dom-testing (2.0.3)
       activesupport (>= 4.2.0)
-      no
+      nokogiri (>= 1.6)
+    rails-html-san
