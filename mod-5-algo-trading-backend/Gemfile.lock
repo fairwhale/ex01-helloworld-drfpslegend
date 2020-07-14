@@ -95,4 +95,5 @@ GEM
       loofah (~> 2.2, >= 2.2.2)
     railties (5.1.6)
       actionpack (= 5.1.6)
-      act
+      activesupport (= 5.1.6)
+      m
