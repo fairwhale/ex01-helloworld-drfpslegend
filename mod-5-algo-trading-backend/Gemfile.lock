@@ -96,4 +96,5 @@ GEM
     railties (5.1.6)
       actionpack (= 5.1.6)
       activesupport (= 5.1.6)
-      m
+      method_source
+      rake (>= 0
