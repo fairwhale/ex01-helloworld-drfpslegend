@@ -102,4 +102,6 @@ GEM
     rake (12.3.1)
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
-      ffi (>= 0.5.0, < 
+      ffi (>= 0.5.0, < 2)
+    redis (4.0.1)
+    ruby_dep (1.5.0
