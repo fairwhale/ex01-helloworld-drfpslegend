@@ -101,4 +101,5 @@ GEM
       thor (>= 0.18.1, < 2.0)
     rake (12.3.1)
     rb-fsevent (0.10.3)
-    rb-inotify (0.9.1
+    rb-inotify (0.9.10)
+      ffi (>= 0.5.0, < 
