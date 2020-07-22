@@ -109,4 +109,5 @@ GEM
       activesupport (>= 4.2)
     spring-watcher-listen (2.0.1)
       listen (>= 2.7, < 4.0)
-      sprin
+      spring (>= 1.2, < 3.0)
+    sprocket
