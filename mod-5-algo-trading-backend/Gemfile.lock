@@ -113,4 +113,5 @@ GEM
     sprockets (3.7.1)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
-    
+    sprockets-rails (3.2.1)
+      actionpa
