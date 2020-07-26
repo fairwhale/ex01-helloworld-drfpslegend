@@ -114,4 +114,5 @@ GEM
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
     sprockets-rails (3.2.1)
-      actionpa
+      actionpack (>= 4.0)
+      activesup
