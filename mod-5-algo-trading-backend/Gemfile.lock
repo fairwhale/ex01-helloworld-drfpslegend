@@ -123,4 +123,6 @@ GEM
       thread_safe (~> 0.1)
     websocket (1.2.8)
     websocket-client-simple (0.3.0)
-      event_emi
+      event_emitter
+      websocket
+ 
