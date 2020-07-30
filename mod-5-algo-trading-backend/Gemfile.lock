@@ -122,4 +122,5 @@ GEM
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
     websocket (1.2.8)
-    websocket-client
+    websocket-client-simple (0.3.0)
+      event_emi
