@@ -126,4 +126,5 @@ GEM
       event_emitter
       websocket
     websocket-driver (0.6.5)
-      web
+      websocket-extensions (>= 0.1.0)
+    websocket-
