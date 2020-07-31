@@ -125,4 +125,5 @@ GEM
     websocket-client-simple (0.3.0)
       event_emitter
       websocket
- 
+    websocket-driver (0.6.5)
+      web
