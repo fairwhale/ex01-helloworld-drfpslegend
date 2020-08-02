@@ -130,4 +130,7 @@ GEM
     websocket-extensions (0.1.3)
 
 PLATFORMS
-  ru
+  ruby
+
+DEPENDENCIES
+  active_model
