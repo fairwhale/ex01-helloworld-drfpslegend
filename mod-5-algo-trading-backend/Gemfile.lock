@@ -141,4 +141,6 @@ DEPENDENCIES
   pg (>= 0.18, < 2.0)
   puma (~> 3.7)
   rack-cors
- 
+  rails (~> 5.1.6)
+  redis (~> 4.0)
+  spring
