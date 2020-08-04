@@ -144,3 +144,5 @@ DEPENDENCIES
   rails (~> 5.1.6)
   redis (~> 4.0)
   spring
+  spring-watcher-listen (~> 2.0.0)
+  tzinfo-d
