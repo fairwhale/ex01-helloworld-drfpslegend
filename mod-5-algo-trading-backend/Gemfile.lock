@@ -145,4 +145,7 @@ DEPENDENCIES
   redis (~> 4.0)
   spring
   spring-watcher-listen (~> 2.0.0)
-  tzinfo-d
+  tzinfo-data
+  websocket-client-simple
+
+BUNDLED W
