@@ -1,1 +1,2 @@
-module ApplicationCab
+module ApplicationCable
+  class Channel < ActionCable
