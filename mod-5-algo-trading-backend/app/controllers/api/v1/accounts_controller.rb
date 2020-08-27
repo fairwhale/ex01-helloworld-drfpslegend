@@ -31,3 +31,13 @@ class Api::V1::AccountsController < ApplicationController
         render json: {errors: @current_account.erros.full_messages}, status: :unprocessible_entity
       end
     end
+
+    private
+    def account_params
+      params.permit(:username, :email, :password, :id, :cash_deposited)
+    end
+
+    def find_account
+      @current_account
+    end
+end
