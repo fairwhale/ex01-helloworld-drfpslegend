@@ -18,3 +18,15 @@ class Api::V1::AlgorithmsController < ApplicationController
       render json: @algorithm, status: :accepted
     else
       render json: {errors: @algorithm.erros.full_messages}, status: :unprocessible_entity
+    end
+  end
+
+  private
+  def algorithm_params
+    params.permit(:account_id, :active)
+  end
+
+  def find_algorithm
+    @algorithm = Algorithm.find(params[:id])
+  end
+end
