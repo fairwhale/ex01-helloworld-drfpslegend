@@ -1,1 +1,1 @@
-class Api::V1::OrdersCo
+class Api::V1::OrdersController < ApplicationController
