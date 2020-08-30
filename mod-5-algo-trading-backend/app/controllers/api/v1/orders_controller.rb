@@ -4,4 +4,7 @@ class Api::V1::OrdersController < ApplicationController
   def index
     @orders = Order.all
     render json: @orders
-  en
+  end
+
+  def show
+    render json: curr
