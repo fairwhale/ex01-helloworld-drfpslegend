@@ -7,4 +7,7 @@ class Api::V1::OrdersController < ApplicationController
   end
 
   def show
-    render json: curr
+    render json: current_account.orders
+  end
+
+  #
