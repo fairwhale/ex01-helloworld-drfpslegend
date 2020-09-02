@@ -14,4 +14,5 @@ class Api::V1::OrdersController < ApplicationController
   #   render json: current_account.orders
   # end
 
-  def c
+  def create
+    @order = Order.cre
