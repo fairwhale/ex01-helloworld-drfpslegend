@@ -10,4 +10,5 @@ class Api::V1::OrdersController < ApplicationController
     render json: current_account.orders
   end
 
-  #
+  # def show_orders
+  #   render json:
