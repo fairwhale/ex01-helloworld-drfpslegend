@@ -15,4 +15,5 @@ class Api::V1::OrdersController < ApplicationController
   # end
 
   def create
-    @order = Order.cre
+    @order = Order.create(order_params)
+    @
