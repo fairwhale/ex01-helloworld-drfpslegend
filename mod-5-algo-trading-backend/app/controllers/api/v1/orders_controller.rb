@@ -22,4 +22,6 @@ class Api::V1::OrdersController < ApplicationController
   end
 
   def update
-    @order.update(order_params
+    @order.update(order_params)
+    if @order.save
+      r
