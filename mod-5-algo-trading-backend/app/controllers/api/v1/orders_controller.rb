@@ -22,4 +22,4 @@ class Api::V1::OrdersController < ApplicationController
   end
 
   def update
- 
+    @order.update(order_params
