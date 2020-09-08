@@ -18,4 +18,8 @@ class Api::V1::OrdersController < ApplicationController
     @order = Order.create(order_params)
     @position = Position.find(order_params[:position_id])
     # OrdersJob.perform(order_params)
-    render json: @order, stat
+    render json: @order, status: :accepted
+  end
+
+  def update
+ 
