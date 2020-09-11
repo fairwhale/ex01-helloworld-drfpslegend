@@ -26,4 +26,4 @@ class Api::V1::OrdersController < ApplicationController
     if @order.save
       render json: @order, status: :accepted
     else
-      rende
+      render json: {errors: @order.erros.f
