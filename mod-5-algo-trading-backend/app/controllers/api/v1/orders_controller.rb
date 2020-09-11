@@ -24,4 +24,6 @@ class Api::V1::OrdersController < ApplicationController
   def update
     @order.update(order_params)
     if @order.save
-      render json: @order, status: :acce
+      render json: @order, status: :accepted
+    else
+      rende
