@@ -31,3 +31,5 @@ class Api::V1::OrdersController < ApplicationController
   end
 
   private
+  def order_params
+   
