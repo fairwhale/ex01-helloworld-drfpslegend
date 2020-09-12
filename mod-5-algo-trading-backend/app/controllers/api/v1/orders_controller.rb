@@ -27,3 +27,7 @@ class Api::V1::OrdersController < ApplicationController
       render json: @order, status: :accepted
     else
       render json: {errors: @order.erros.full_messages}, status: :unprocessible_entity
+    end
+  end
+
+  private
