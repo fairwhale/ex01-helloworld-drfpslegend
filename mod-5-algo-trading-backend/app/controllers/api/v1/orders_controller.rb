@@ -32,4 +32,5 @@ class Api::V1::OrdersController < ApplicationController
 
   private
   def order_params
-    params.permit(:quantity, :price, :account_id, :trading_pair, :usd_id, :position_id, :l
+    params.permit(:quantity, :price, :account_id, :trading_pair, :usd_id, :position_id, :limit, :buy_or_sell)
+  end
