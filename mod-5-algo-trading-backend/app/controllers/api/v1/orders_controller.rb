@@ -36,4 +36,5 @@ class Api::V1::OrdersController < ApplicationController
   end
 
   def find_order
-    @order = Ord
+    @order = Order.find(params[:id])
+  e
