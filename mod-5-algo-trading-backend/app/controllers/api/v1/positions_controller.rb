@@ -1,2 +1,2 @@
 class Api::V1::PositionsController < ApplicationController
-  before_act
+  before_action :find_position, only: [:up
