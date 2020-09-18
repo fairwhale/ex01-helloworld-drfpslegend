@@ -3,4 +3,8 @@ class Api::V1::PositionsController < ApplicationController
 
   def index
     @positions = User.all
-    render json: @
+    render json: @positions
+  end
+
+  def show
+  
