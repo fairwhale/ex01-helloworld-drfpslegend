@@ -7,4 +7,4 @@ class Api::V1::PositionsController < ApplicationController
   end
 
   def show
-  
+    render json: current_account
