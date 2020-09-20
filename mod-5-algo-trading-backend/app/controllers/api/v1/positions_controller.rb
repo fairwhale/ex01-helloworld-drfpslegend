@@ -10,4 +10,5 @@ class Api::V1::PositionsController < ApplicationController
     render json: current_account.positions
   end
 
-  # def show_pos
+  # def show_positions
+  #   render json: curre
