@@ -15,4 +15,5 @@ class Api::V1::PositionsController < ApplicationController
   # end
 
   def create
-    @positio
+    @position = User.create(position_params)
+    r
