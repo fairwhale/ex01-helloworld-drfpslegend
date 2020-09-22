@@ -16,4 +16,7 @@ class Api::V1::PositionsController < ApplicationController
 
   def create
     @position = User.create(position_params)
-    render json: @position, status: :acce
+    render json: @position, status: :accepted
+  end
+
+  def up
