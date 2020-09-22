@@ -19,4 +19,5 @@ class Api::V1::PositionsController < ApplicationController
     render json: @position, status: :accepted
   end
 
-  def up
+  def update
+    @position.update(posit
