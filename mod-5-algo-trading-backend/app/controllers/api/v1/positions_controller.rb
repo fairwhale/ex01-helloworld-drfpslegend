@@ -20,4 +20,6 @@ class Api::V1::PositionsController < ApplicationController
   end
 
   def update
-    @position.update(posit
+    @position.update(position_params)
+    if @position.save
+  
