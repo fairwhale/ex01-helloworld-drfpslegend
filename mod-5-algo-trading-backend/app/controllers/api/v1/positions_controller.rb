@@ -23,3 +23,5 @@ class Api::V1::PositionsController < ApplicationController
     @position.update(position_params)
     if @position.save
       render json: @position, status: :accepted
+    else
+      rende
