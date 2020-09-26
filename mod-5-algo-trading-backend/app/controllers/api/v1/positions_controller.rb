@@ -24,4 +24,4 @@ class Api::V1::PositionsController < ApplicationController
     if @position.save
       render json: @position, status: :accepted
     else
-      render json: {errors: @position.erros.
+      render json: {errors: @position.erros.full_messages}, status: :
