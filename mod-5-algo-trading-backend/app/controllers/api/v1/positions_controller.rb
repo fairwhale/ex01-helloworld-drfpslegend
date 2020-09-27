@@ -28,4 +28,5 @@ class Api::V1::PositionsController < ApplicationController
     end
   end
 
-  
+  private
+  def position_pa
