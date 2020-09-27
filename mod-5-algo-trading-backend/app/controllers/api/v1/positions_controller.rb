@@ -29,4 +29,5 @@ class Api::V1::PositionsController < ApplicationController
   end
 
   private
-  def position_pa
+  def position_params
+    params.permit(:quantity, :account_id, :trad
