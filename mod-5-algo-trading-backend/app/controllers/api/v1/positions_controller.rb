@@ -33,4 +33,5 @@ class Api::V1::PositionsController < ApplicationController
     params.permit(:quantity, :account_id, :trading_pair)
   end
 
-  def find_posit
+  def find_position
+    @position = Position.fin
