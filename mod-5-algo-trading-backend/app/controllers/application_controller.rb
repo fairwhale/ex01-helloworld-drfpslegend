@@ -1,1 +1,2 @@
-class ApplicationController < Ac
+class ApplicationController < ActionController::API
+  include Ac
