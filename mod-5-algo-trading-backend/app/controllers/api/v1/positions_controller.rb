@@ -36,4 +36,4 @@ class Api::V1::PositionsController < ApplicationController
   def find_position
     @position = Position.find(params[:id])
   end
-en
+end
