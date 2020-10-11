@@ -1,2 +1,2 @@
 class ApplicationController < ActionController::API
-  include Ac
+  include ActionController::HttpAuthent
