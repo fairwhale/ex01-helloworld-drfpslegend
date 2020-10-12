@@ -4,4 +4,4 @@ class ApplicationController < ActionController::API
   before_action :authorized
 
   def current_account
-    @current_
+    @current_account || authenticate_or_request
