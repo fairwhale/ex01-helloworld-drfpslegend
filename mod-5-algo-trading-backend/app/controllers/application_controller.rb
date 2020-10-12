@@ -3,4 +3,5 @@ class ApplicationController < ActionController::API
 
   before_action :authorized
 
-  def 
+  def current_account
+    @current_
