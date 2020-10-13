@@ -7,4 +7,4 @@ class ApplicationController < ActionController::API
     @current_account || authenticate_or_request_with_http_token do |jwt_token, options|
       
       begin
-        dec
+        decoded_token = JWT.decode
