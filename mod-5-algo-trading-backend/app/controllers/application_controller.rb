@@ -7,4 +7,6 @@ class ApplicationController < ActionController::API
     @current_account || authenticate_or_request_with_http_token do |jwt_token, options|
       
       begin
-        decoded_token = JWT.decode
+        decoded_token = JWT.decode(jwt_token, "password123")
+
+ 
