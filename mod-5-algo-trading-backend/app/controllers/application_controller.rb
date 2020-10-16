@@ -11,4 +11,6 @@ class ApplicationController < ActionController::API
 
       rescue JWT::DecodeError
         return nil
-     
+      end
+
+      if decoded_token[0]["a
