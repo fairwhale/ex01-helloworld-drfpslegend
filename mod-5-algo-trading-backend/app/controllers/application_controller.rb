@@ -10,3 +10,5 @@ class ApplicationController < ActionController::API
         decoded_token = JWT.decode(jwt_token, "password123")
 
       rescue JWT::DecodeError
+        return nil
+     
