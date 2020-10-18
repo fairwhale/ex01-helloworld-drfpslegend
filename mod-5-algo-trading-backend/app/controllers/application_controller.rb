@@ -14,4 +14,4 @@ class ApplicationController < ActionController::API
       end
 
       if decoded_token[0]["account_id"]
-        @current_account ||= Account
+        @current_account ||= Account.find(decoded_token[0]["ac
