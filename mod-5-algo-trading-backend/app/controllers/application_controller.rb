@@ -13,4 +13,5 @@ class ApplicationController < ActionController::API
         return nil
       end
 
-      if decoded_token[0]["a
+      if decoded_token[0]["account_id"]
+        @c
