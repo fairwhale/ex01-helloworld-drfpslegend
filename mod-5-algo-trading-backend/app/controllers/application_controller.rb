@@ -17,3 +17,8 @@ class ApplicationController < ActionController::API
         @current_account ||= Account.find(decoded_token[0]["account_id"])
       else
       end
+    end
+  end
+
+  def logged_in?
+    !!
