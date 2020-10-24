@@ -25,4 +25,5 @@ class ApplicationController < ActionController::API
   end
 
   def authorized
-    render json: {message: "Not welcome" }, status: 401 u
+    render json: {message: "Not welcome" }, status: 401 unless logged_in?
+  end
