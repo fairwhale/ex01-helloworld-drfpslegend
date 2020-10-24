@@ -24,4 +24,5 @@ class ApplicationController < ActionController::API
     !!current_account
   end
 
-  def authoriz
+  def authorized
+    render json: {messag
