@@ -21,4 +21,7 @@ class ApplicationController < ActionController::API
   end
 
   def logged_in?
-    !!
+    !!current_account
+  end
+
+  def authoriz
