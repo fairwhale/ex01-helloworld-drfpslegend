@@ -1,1 +1,1 @@
-cla
+class ApplicationJob < Activ
