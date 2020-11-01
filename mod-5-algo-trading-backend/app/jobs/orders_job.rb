@@ -1,1 +1,2 @@
-class OrdersJob
+class OrdersJob < ApplicationJob
+  queu
