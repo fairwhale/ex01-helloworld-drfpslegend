@@ -1,2 +1,4 @@
 class OrdersJob < ApplicationJob
-  queu
+  queue_as :default
+
+  def self.per
