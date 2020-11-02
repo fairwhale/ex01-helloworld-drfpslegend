@@ -1,4 +1,6 @@
 class OrdersJob < ApplicationJob
   queue_as :default
 
-  def self.per
+  def self.perform(*args)
+    byebug
+    # arg
