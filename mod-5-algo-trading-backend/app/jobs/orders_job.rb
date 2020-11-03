@@ -3,4 +3,4 @@ class OrdersJob < ApplicationJob
 
   def self.perform(*args)
     byebug
-    # arg
+    # args[0]["price"] gives me -> "99.56"
