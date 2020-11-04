@@ -1,3 +1,4 @@
 class Account < ApplicationRecord
   validates :username, uniqueness: true
-  validates :em
+  validates :email, uniqueness: true
+  has_secu
