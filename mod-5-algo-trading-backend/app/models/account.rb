@@ -1,1 +1,2 @@
-class Account < Applicatio
+class Account < ApplicationRecord
+  validates :username, 
