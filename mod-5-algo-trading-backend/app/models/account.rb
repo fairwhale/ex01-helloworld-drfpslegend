@@ -1,2 +1,3 @@
 class Account < ApplicationRecord
-  validates :username, 
+  validates :username, uniqueness: true
+  validates :em
