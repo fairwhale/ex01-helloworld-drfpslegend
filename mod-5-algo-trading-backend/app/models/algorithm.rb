@@ -1,1 +1,1 @@
-class Algorithm
+class Algorithm < ApplicationRecor
