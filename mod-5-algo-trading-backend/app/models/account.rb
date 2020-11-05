@@ -3,4 +3,5 @@ class Account < ApplicationRecord
   validates :email, uniqueness: true
   has_secure_password
   has_many :positions
-  
+  has_many :orders
+  has_many :algor
