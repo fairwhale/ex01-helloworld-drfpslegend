@@ -1,1 +1,2 @@
-class ApplicationReco
+class ApplicationRecord < ActiveRecord::Base
+  self.abstra
