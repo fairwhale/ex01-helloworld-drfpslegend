@@ -1,1 +1,2 @@
-class Order < 
+class Order < ApplicationRecord
+  belong
