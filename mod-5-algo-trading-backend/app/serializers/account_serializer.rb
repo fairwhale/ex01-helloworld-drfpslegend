@@ -1,1 +1,2 @@
-class AccountSerializer < Activ
+class AccountSerializer < ActiveModel::Serializer
+  attributes :
