@@ -1,2 +1,3 @@
 class Order < ApplicationRecord
-  belong
+  belongs_to :account
+end

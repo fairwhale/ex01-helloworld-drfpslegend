@@ -1,0 +1,1 @@
+class Position < Applica
