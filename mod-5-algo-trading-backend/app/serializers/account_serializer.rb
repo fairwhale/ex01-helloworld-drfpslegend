@@ -1,2 +1,2 @@
 class AccountSerializer < ActiveModel::Serializer
-  attributes :
+  attributes :id, :username, :passwo
