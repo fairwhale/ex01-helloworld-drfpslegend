@@ -1,1 +1,2 @@
-class AlgorithmSerializer < ActiveModel::Seri
+class AlgorithmSerializer < ActiveModel::Serializer
+  attributes :id, :nam
