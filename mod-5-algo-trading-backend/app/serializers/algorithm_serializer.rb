@@ -1,1 +1,1 @@
-class Algorithm
+class AlgorithmSerializer < ActiveModel::Seri
