@@ -1,1 +1,1 @@
-class OrderSerializ
+class OrderSerializer < ActiveModel::Ser
