@@ -1,2 +1,3 @@
 class AlgorithmSerializer < ActiveModel::Serializer
-  attributes :id, :nam
+  attributes :id, :name, :account_id, :active
+  belongs_to
