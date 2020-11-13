@@ -1,1 +1,2 @@
-class OrderSerializer < ActiveModel::Ser
+class OrderSerializer < ActiveModel::Serializer
+  attributes :id, :account_
