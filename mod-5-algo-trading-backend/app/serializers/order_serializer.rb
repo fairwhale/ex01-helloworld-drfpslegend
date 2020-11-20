@@ -1,2 +1,2 @@
 class OrderSerializer < ActiveModel::Serializer
-  attributes :id, :account_
+  attributes :id, :account_id, :quantity, :price, :limit, :t
