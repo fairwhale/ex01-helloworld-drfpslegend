@@ -1,2 +1,2 @@
 #!/usr/bin/env ruby
-ENV['B
+ENV['BUNDLE_GEMFILE'] ||= Fil
