@@ -3,4 +3,5 @@ require 'pathname'
 require 'fileutils'
 include FileUtils
 
-# path to y
+# path to your application root.
+APP_ROOT = P
