@@ -4,4 +4,4 @@ require 'fileutils'
 include FileUtils
 
 # path to your application root.
-APP_ROOT = P
+APP_ROOT = Pathname.new File.expand_path('../../', 
