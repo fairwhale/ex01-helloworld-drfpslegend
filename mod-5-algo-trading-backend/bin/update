@@ -11,4 +11,5 @@ def system!(*args)
 end
 
 chdir APP_ROOT do
-  # This script is a way to update your development e
+  # This script is a way to update your development environment automatically.
+  # Add n
