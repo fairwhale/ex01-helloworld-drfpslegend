@@ -11,4 +11,4 @@ def system!(*args)
 end
 
 chdir APP_ROOT do
-  # This script is a 
+  # This script is a way to update your development e
