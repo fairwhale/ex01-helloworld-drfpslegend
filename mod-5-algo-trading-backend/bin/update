@@ -12,4 +12,4 @@ end
 
 chdir APP_ROOT do
   # This script is a way to update your development environment automatically.
-  # Add n
+  # Add necessary update steps to this
