@@ -15,4 +15,5 @@ chdir APP_ROOT do
   # Add necessary update steps to this file.
 
   puts '== Installing dependencies =='
-  system! 'gem insta
+  system! 'gem install bundler --conservative'
+  s
