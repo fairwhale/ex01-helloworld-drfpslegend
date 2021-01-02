@@ -16,4 +16,4 @@ chdir APP_ROOT do
 
   puts '== Installing dependencies =='
   system! 'gem install bundler --conservative'
-  s
+  system('bundle check') || system!('bundle 
