@@ -21,4 +21,5 @@ chdir APP_ROOT do
   puts "\n== Updating database =="
   system! 'bin/rails db:migrate'
 
-  puts "\n== Removing
+  puts "\n== Removing old logs and tempfiles =="
+  system! 
