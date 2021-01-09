@@ -1,1 +1,3 @@
-devel
+development:
+  adapter: async
+
