@@ -5,4 +5,5 @@ test:
   adapter: async
 
 production:
-  adapt
+  adapter: redis
+  url: redis://loc
