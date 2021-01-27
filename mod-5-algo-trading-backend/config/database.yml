@@ -9,4 +9,4 @@
 # On Windows:
 #   gem install pg
 #       Choose the win32 build.
-#       Install Post
+#       Install PostgreSQL and put its /bin directory on 
