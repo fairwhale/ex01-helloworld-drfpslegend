@@ -15,4 +15,6 @@
 # gem 'pg'
 #
 default: &default
-  adapter: postgre
+  adapter: postgresql
+  encoding: unicode
+  # For d
