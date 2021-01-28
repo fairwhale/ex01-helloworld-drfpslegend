@@ -17,4 +17,5 @@
 default: &default
   adapter: postgresql
   encoding: unicode
-  # For details on connection pooling, see R
+  # For details on connection pooling, see Rails configuration guide
+  # ht
