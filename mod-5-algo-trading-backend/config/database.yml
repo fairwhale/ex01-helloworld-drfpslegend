@@ -14,4 +14,5 @@
 # Configure Using Gemfile
 # gem 'pg'
 #
-defa
+default: &default
+  adapter: postgre
