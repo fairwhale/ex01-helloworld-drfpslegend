@@ -22,4 +22,5 @@ default: &default
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
 
 development:
-  <<: *def
+  <<: *default
+  database: mod-5-a
