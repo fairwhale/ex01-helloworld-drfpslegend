@@ -25,4 +25,4 @@ development:
   <<: *default
   database: mod-5-algo-trading-backend_development
 
-  # The specified database r
+  # The specified database role being used to connect t
