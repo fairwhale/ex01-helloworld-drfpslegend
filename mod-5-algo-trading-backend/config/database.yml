@@ -23,4 +23,6 @@ default: &default
 
 development:
   <<: *default
-  database: mod-5-algo-trading-backend_develop
+  database: mod-5-algo-trading-backend_development
+
+  # The specified database r
