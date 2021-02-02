@@ -26,4 +26,4 @@ development:
   database: mod-5-algo-trading-backend_development
 
   # The specified database role being used to connect to postgres.
-  # To create ad
+  # To create additional roles in postgr
