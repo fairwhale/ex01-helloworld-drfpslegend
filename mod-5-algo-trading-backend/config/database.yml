@@ -32,4 +32,6 @@ development:
   #username: mod-5-algo-trading-backend
 
   # The password associated with the postgres role (username).
-  
+  #password:
+
+  # Connect on a TCP 
