@@ -31,4 +31,4 @@ development:
   # the same name as the operating system user that initialized the database.
   #username: mod-5-algo-trading-backend
 
-  # The password 
+  # The password associated with the pos
