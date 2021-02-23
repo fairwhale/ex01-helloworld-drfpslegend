@@ -34,4 +34,5 @@ development:
   # The password associated with the postgres role (username).
   #password:
 
-  # Connect on a TCP socket. Omitted by default since the clie
+  # Connect on a TCP socket. Omitted by default since the client uses a
+  # domain socket 
