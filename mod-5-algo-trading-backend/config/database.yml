@@ -35,4 +35,4 @@ development:
   #password:
 
   # Connect on a TCP socket. Omitted by default since the client uses a
-  # domain socket 
+  # domain socket that doesn't need con
