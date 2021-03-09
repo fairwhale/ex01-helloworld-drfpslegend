@@ -39,4 +39,4 @@ development:
   # domain sockets, so uncomment these lines.
   #host: localhost
 
-  # The TCP por
+  # The TCP port the server listens on. Defaults
