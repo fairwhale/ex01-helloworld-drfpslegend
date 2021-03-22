@@ -50,4 +50,5 @@ development:
   #   debug5, debug4, debug3, debug2, debug1,
   #   log, notice, warning, error, fatal, and panic
   # Defaults to warning.
-  #m
+  #min_messages: notice
+
