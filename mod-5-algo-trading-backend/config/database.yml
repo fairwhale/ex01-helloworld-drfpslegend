@@ -60,4 +60,4 @@ test:
   database: mod-5-algo-trading-backend_test
 
 # As with config/secrets.yml, you never want to store sensitive information,
-# like y
+# like your database password, in your
