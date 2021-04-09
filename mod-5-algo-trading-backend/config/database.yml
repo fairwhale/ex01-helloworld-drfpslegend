@@ -63,4 +63,4 @@ test:
 # like your database password, in your source code. If your source code is
 # ever seen by anyone, they now have access to your database.
 #
-# Instead, 
+# Instead, provide the password as a unix environm
