@@ -64,4 +64,4 @@ test:
 # ever seen by anyone, they now have access to your database.
 #
 # Instead, provide the password as a unix environment variable when you boot
-# the app. Read http://
+# the app. Read http://guides.rubyonrails.org/con
