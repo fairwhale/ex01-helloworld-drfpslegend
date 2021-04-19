@@ -65,4 +65,4 @@ test:
 #
 # Instead, provide the password as a unix environment variable when you boot
 # the app. Read http://guides.rubyonrails.org/configuring.html#configuring-a-database
-# for a full rundown on
+# for a full rundown on how to provide these environm
