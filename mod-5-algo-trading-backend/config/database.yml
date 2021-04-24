@@ -69,4 +69,4 @@ test:
 # production deployment.
 #
 # On Heroku and other platform providers, you may have a full connection URL
-# available a
+# available as an environment variabl
