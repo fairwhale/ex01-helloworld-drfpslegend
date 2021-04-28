@@ -73,4 +73,6 @@ test:
 #
 #   DATABASE_URL="postgres://myuser:mypass@localhost/somedatabase"
 #
-# You can use this database configurati
+# You can use this database configuration with:
+#
+#   producti
