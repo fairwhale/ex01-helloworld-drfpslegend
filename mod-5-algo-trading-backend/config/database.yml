@@ -75,4 +75,5 @@ test:
 #
 # You can use this database configuration with:
 #
-#   producti
+#   production:
+#     url: <%= ENV['DATABA
