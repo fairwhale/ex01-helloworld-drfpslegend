@@ -81,4 +81,5 @@ test:
 production:
   <<: *default
   database: mod-5-algo-trading-backend_production
-  username: mod-
+  username: mod-5-algo-trading-backend
+  passwo
