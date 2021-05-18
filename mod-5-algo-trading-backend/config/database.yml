@@ -82,4 +82,4 @@ production:
   <<: *default
   database: mod-5-algo-trading-backend_production
   username: mod-5-algo-trading-backend
-  password: <%= ENV['MOD-5-ALGO-TRADING-BACKEND_DATABASE_PASSWOR
+  password: <%= ENV['MOD-5-ALGO-TRADING-BACKEND_DATABASE_PASSWORD'] %>
