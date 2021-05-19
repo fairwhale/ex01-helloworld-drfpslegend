@@ -1,1 +1,4 @@
-# Load the Rails applicatio
+# Load the Rails application.
+require_relative 'application'
+
+# 
