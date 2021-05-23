@@ -1,1 +1,2 @@
-Rails.application.confi
+Rails.application.configure do
+  # Settings sp
