@@ -1,2 +1,2 @@
 Rails.application.configure do
-  # Settings sp
+  # Settings specified here will take pr
