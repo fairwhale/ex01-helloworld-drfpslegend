@@ -14,4 +14,4 @@ Rails.application.configure do
 
   # Enable/disable caching. By default caching is disabled.
   if Rails.root.join('tmp/caching-dev.txt').exist?
-    config.action_controlle
+    config.action_controller.perform_caching = true
