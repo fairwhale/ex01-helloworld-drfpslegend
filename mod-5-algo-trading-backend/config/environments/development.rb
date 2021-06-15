@@ -18,4 +18,4 @@ Rails.application.configure do
 
     config.cache_store = :memory_store
     config.public_file_server.headers = {
-      'Cache-Con
+      'Cache-Control' => "public, max-age=#{2.
