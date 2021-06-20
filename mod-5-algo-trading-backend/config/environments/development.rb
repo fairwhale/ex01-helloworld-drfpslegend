@@ -21,4 +21,6 @@ Rails.application.configure do
       'Cache-Control' => "public, max-age=#{2.days.seconds.to_i}"
     }
   else
-    config.action_controller.perform
+    config.action_controller.perform_caching = false
+
+    confi
