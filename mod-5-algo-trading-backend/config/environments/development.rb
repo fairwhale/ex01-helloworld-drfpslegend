@@ -23,4 +23,4 @@ Rails.application.configure do
   else
     config.action_controller.perform_caching = false
 
-    confi
+    config.cache_store = :null_stor
