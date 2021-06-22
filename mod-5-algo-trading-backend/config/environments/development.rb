@@ -27,4 +27,4 @@ Rails.application.configure do
   end
 
   # Don't care if the mailer can't send.
-  config.action_
+  config.action_mailer.raise_delivery_errors
