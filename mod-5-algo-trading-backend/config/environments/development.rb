@@ -31,4 +31,4 @@ Rails.application.configure do
 
   config.action_mailer.perform_caching = false
 
-  # Print deprec
+  # Print deprecation notices to the Rails logge
