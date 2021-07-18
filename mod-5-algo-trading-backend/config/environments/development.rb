@@ -42,4 +42,5 @@ Rails.application.configure do
   # config.action_view.raise_on_missing_translations = true
 
   # Use an evented file watcher to asynchronously detect changes in source code,
-  # routes, locales, etc. This fea
+  # routes, locales, etc. This feature depends on the listen gem.
+  co
