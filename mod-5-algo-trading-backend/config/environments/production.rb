@@ -11,4 +11,4 @@ Rails.application.configure do
   config.eager_load = true
 
   # Full error reports are disabled and caching is turned on.
-  config.consid
+  config.consider_all_requests_local  
