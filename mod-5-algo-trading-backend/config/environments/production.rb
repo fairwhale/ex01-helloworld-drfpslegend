@@ -14,4 +14,5 @@ Rails.application.configure do
   config.consider_all_requests_local       = false
   config.action_controller.perform_caching = true
 
-  # Attempt to read encrypted secrets from `config/s
+  # Attempt to read encrypted secrets from `config/secrets.yml.enc`.
+  # Requires
