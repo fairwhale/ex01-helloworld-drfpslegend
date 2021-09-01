@@ -15,4 +15,4 @@ Rails.application.configure do
   config.action_controller.perform_caching = true
 
   # Attempt to read encrypted secrets from `config/secrets.yml.enc`.
-  # Requires
+  # Requires an encryption key in 
