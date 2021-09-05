@@ -19,4 +19,4 @@ Rails.application.configure do
   # `config/secrets.yml.key`.
   config.read_encrypted_secrets = true
 
-  # Disable serving static fil
+  # Disable serving static files from the `/public` fold
