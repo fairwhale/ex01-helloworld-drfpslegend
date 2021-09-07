@@ -20,4 +20,5 @@ Rails.application.configure do
   config.read_encrypted_secrets = true
 
   # Disable serving static files from the `/public` folder by default since
-  # Apache or NGINX a
+  # Apache or NGINX already handles this.
+  con
