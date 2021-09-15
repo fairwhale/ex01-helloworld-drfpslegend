@@ -25,4 +25,4 @@ Rails.application.configure do
 
 
   # Enable serving of images, stylesheets, and JavaScripts from an asset server.
-  # config.action_control
+  # config.action_controller.asset_host = 'http://assets.examp
