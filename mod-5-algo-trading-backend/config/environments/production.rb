@@ -32,4 +32,5 @@ Rails.application.configure do
   # config.action_dispatch.x_sendfile_header = 'X-Accel-Redirect' # for NGINX
 
   # Mount Action Cable outside main process or domain
-  # config.action_cable.mount_path = ni
+  # config.action_cable.mount_path = nil
+  # config.action_cable.url = 
