@@ -43,4 +43,4 @@ Rails.application.configure do
   # when problems arise.
   config.log_level = :debug
 
-  # Prepend all
+  # Prepend all log lines with the following tags.
