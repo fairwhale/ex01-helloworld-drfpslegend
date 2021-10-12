@@ -47,4 +47,4 @@ Rails.application.configure do
   config.log_tags = [ :request_id ]
 
   # Use a different cache store in production.
-  # config.c
+  # config.cache_store = :mem_ca
