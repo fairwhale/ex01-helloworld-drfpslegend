@@ -51,4 +51,4 @@ Rails.application.configure do
 
   # Use a real queuing backend for Active Job (and separate queues per environment)
   # config.active_job.queue_adapter     = :resque
-  # config.active_job.queue_name_prefix = "mo
+  # config.active_job.queue_name_prefix = "mod-5-algo-trading-backend_
