@@ -54,4 +54,4 @@ Rails.application.configure do
   # config.active_job.queue_name_prefix = "mod-5-algo-trading-backend_#{Rails.env}"
   config.action_mailer.perform_caching = false
 
-  # Ignor
+  # Ignore bad email addresses and do n
