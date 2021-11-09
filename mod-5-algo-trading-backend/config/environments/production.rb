@@ -63,4 +63,6 @@ Rails.application.configure do
   config.i18n.fallbacks = true
 
   # Send deprecation notices to registered listeners.
-  config.active_support.deprecation = :not
+  config.active_support.deprecation = :notify
+
+  # Use default log
