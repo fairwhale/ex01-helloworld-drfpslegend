@@ -72,4 +72,4 @@ Rails.application.configure do
   # require 'syslog/logger'
   # config.logger = ActiveSupport::TaggedLogging.new(Syslog::Logger.new 'app-name')
 
-  if ENV["RAIL
+  if ENV["RAILS_LOG_TO_STDOUT"].present?
