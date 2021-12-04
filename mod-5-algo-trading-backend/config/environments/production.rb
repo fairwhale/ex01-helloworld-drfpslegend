@@ -78,4 +78,4 @@ Rails.application.configure do
     config.logger    = ActiveSupport::TaggedLogging.new(logger)
   end
 
-  # 
+  # Do not dump schema after mig
