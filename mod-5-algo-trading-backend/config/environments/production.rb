@@ -78,4 +78,5 @@ Rails.application.configure do
     config.logger    = ActiveSupport::TaggedLogging.new(logger)
   end
 
-  # Do not dump schema after mig
+  # Do not dump schema after migrations.
+  config.active_rec
