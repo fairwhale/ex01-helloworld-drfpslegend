@@ -1,2 +1,2 @@
 Rails.application.configure do
-  # Settin
+  # Settings specified here will take
