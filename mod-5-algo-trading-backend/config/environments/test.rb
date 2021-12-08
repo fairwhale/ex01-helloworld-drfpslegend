@@ -1,1 +1,2 @@
-Rails.a
+Rails.application.configure do
+  # Settin
