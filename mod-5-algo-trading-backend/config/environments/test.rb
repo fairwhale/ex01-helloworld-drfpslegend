@@ -12,4 +12,4 @@ Rails.application.configure do
   # preloads Rails for running tests, you may have to set it to true.
   config.eager_load = false
 
-  # Configure public file server f
+  # Configure public file server for tests with Cache-Con
