@@ -19,4 +19,4 @@ Rails.application.configure do
   }
 
   # Show full error reports and disable caching.
-  co
+  config.consider_all_requests_local 
