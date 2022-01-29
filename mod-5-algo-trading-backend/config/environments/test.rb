@@ -30,4 +30,4 @@ Rails.application.configure do
   config.action_mailer.perform_caching = false
 
   # Tell Action Mailer not to deliver emails to the real world.
-  
+  # The :test delivery method accum
