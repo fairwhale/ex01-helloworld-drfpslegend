@@ -34,4 +34,4 @@ Rails.application.configure do
   # ActionMailer::Base.deliveries array.
   config.action_mailer.delivery_method = :test
 
-  # Print 
+  # Print deprecation notices to 
