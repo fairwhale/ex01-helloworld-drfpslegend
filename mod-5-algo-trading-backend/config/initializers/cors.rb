@@ -1,3 +1,3 @@
 # Be sure to restart your server when you modify this file.
 
-# Avoi
+# Avoid CORS issues when API is ca
