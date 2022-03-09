@@ -5,4 +5,4 @@
 
 # Read more: https://github.com/cyu/rack-cors
 
-Rails.a
+Rails.application.config.middleware.insert_befor
