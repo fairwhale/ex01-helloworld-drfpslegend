@@ -10,4 +10,4 @@
 #   inflect.uncountable %w( fish sheep )
 # end
 
-# Th
+# These inflection rules are su
