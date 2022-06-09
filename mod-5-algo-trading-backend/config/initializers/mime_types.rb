@@ -1,1 +1,1 @@
-# Be sure to rest
+# Be sure to restart your server when you modify th
