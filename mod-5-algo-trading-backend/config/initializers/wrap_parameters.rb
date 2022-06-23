@@ -1,1 +1,1 @@
-# Be sure to
+# Be sure to restart your server when you
