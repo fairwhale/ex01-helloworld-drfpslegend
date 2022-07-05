@@ -2,3 +2,5 @@
 
 # This file contains settings for ActionController::ParamsWrapper which
 # is enabled by default.
+
+# Enable parameter wrapping 
