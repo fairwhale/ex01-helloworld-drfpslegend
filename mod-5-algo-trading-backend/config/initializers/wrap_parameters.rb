@@ -9,4 +9,4 @@ ActiveSupport.on_load(:action_controller) do
 end
 
 # To enable root element in JSON for ActiveRecord objects.
-# Activ
+# ActiveSupport.on_load(:active_record) d
