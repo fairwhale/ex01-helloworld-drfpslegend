@@ -8,4 +8,6 @@
 #
 # In views, this is aliased to just `t`:
 #
-#     <%= t('hel
+#     <%= t('hello') %>
+#
+# To use a different loca
