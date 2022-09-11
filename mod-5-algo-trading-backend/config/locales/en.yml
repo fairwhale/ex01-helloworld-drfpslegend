@@ -16,4 +16,4 @@
 #
 # This would use the information in config/locales/es.yml.
 #
-# The following keys must b
+# The following keys must be escaped otherwise they will
