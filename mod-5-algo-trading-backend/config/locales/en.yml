@@ -15,3 +15,5 @@
 #     I18n.locale = :es
 #
 # This would use the information in config/locales/es.yml.
+#
+# The following keys must b
