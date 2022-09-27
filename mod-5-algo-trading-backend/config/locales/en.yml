@@ -21,4 +21,9 @@
 #
 # true, false, on, off, yes, no
 #
-# Instead, surround them with single quo
+# Instead, surround them with single quotes.
+#
+# en:
+#   'true': 'foo'
+#
+#
