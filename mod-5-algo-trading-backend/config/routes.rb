@@ -4,3 +4,5 @@ Rails.application.routes.draw do
       resources :algorithms
       resources :orders
       resources :positions
+      resources :accounts
+      
