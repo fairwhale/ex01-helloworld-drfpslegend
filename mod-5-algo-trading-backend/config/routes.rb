@@ -5,4 +5,5 @@ Rails.application.routes.draw do
       resources :orders
       resources :positions
       resources :accounts
-      get '/account', to: 'account
+      get '/account', to: 'accounts#show_account'
+      get '/
