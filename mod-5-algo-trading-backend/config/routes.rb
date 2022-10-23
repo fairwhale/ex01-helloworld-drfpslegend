@@ -7,4 +7,6 @@ Rails.application.routes.draw do
       resources :accounts
       get '/account', to: 'accounts#show_account'
       get '/positions/:id', to: 'positions#show_positions'
-      get '/orders/:id', to:
+      get '/orders/:id', to: 'orders#show_orders'
+
+    end
