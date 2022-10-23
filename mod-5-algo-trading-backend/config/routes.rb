@@ -10,3 +10,5 @@ Rails.application.routes.draw do
       get '/orders/:id', to: 'orders#show_orders'
 
     end
+  end
+  post '/login', to: 'aut
