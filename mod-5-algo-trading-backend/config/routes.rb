@@ -11,4 +11,5 @@ Rails.application.routes.draw do
 
     end
   end
-  post '/login', to: 'aut
+  post '/login', to: 'auth#login'
+  mount ActionCable.s
