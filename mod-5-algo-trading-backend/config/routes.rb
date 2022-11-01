@@ -13,4 +13,4 @@ Rails.application.routes.draw do
   end
   post '/login', to: 'auth#login'
   mount ActionCable.server => '/cable'
-  # For details
+  # For details on the DSL available within this file
