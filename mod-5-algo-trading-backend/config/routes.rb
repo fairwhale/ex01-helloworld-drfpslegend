@@ -13,4 +13,5 @@ Rails.application.routes.draw do
   end
   post '/login', to: 'auth#login'
   mount ActionCable.server => '/cable'
-  # For details on the DSL available within this file, see http://guides.rubyonr
+  # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
+end
