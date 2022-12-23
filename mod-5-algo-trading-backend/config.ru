@@ -1,1 +1,1 @@
-# This file is used by
+# This file is used by Rack-based servers to start
