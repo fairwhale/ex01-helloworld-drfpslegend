@@ -1,3 +1,3 @@
 # This file is used by Rack-based servers to start the application.
 
-require_
+require_relative 'config/envir
