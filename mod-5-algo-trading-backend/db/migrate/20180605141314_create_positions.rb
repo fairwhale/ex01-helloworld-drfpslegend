@@ -1,2 +1,3 @@
 class CreatePositions < ActiveRecord::Migration[5.1]
-  def ch
+  def change
+    create_table :posit
