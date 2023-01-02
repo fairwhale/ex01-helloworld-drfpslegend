@@ -5,4 +5,7 @@ class CreatePositions < ActiveRecord::Migration[5.1]
       t.decimal :quantity
       t.string :trading_pair
 
-  
+      t.timestamps
+    end
+  end
+e
