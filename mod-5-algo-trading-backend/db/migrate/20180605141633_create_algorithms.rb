@@ -1,1 +1,1 @@
-class CreateAlg
+class CreateAlgorithms < ActiveRecord::Mi
