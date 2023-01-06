@@ -1,2 +1,3 @@
 class CreateAlgorithms < ActiveRecord::Migration[5.1]
-  def chang
+  def change
+    create_table :algori
