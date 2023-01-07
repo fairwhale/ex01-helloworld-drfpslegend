@@ -3,3 +3,4 @@ class CreateAlgorithms < ActiveRecord::Migration[5.1]
     create_table :algorithms do |t|
       t.string :name
       t.integer :account_id
+      t.boolean :active, default: f
