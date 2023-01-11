@@ -45,3 +45,13 @@ ActiveRecord::Schema.define(version: 20180605141633) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
+
+  create_table "positions", force: :cascade do |t|
+    t.integer "account_id"
+    t.decimal "quantity"
+    t.string "trading_pair"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+end
