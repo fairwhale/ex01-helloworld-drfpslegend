@@ -7,4 +7,4 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 Account.create(email: 'me@gmail.com', username: 'me', password: 'me2', cash_deposited: 0)
 Account.create(email: 'kyle@gmail.com', username: 'kyle', password: 'kyle', cash_deposited: 0)
-Pos
+Position.create(account_id: 1,
