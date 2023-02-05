@@ -8,4 +8,5 @@
 Account.create(email: 'me@gmail.com', username: 'me', password: 'me2', cash_deposited: 0)
 Account.create(email: 'kyle@gmail.com', username: 'kyle', password: 'kyle', cash_deposited: 0)
 Position.create(account_id: 1, quantity: 0, trading_pair: 'BTC-USD')
-Position.create(account_id: 1, quantity: 0, trading_pair: 
+Position.create(account_id: 1, quantity: 0, trading_pair: 'ETH-USD')
+Position.
