@@ -13,4 +13,5 @@ Position.create(account_id: 1, quantity: 0, trading_pair: 'LTC-USD')
 Position.create(account_id: 1, quantity: 0, trading_pair: 'BCH-USD')
 Position.create(account_id: 1, quantity: 1000, trading_pair: 'USD')
 Position.create(account_id: 2, quantity: 1.0034, trading_pair: 'BTC-USD')
-Position.create(account_id: 2, quantity: 2.34, trading
+Position.create(account_id: 2, quantity: 2.34, trading_pair: 'ETH-USD')
+Position
